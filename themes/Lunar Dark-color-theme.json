@@ -2,10 +2,22 @@
 	"name": "Lunar Dark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#131313",
 		"editor.foreground": "#eeffff",
+
+		"activityBar.background": "#131313",
+		"activityBar.foreground": "#e621af",
+
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBar.border": "#131313",
+
+		"sideBar.background": "#131313",
+		"sideBarTitle.foreground": "#bbbbbb",
+		// "sideBarSectionHeader.border": "#00000000",
+		"list.inactiveSelectionBackground": "#dddddd11",
+		"list.inactiveSelectionForeground": "#ffffff"
+
+
 	},
 	"tokenColors": [
 		{
